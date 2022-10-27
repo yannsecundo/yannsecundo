@@ -5,8 +5,8 @@
 - ⚡ Fato divertido sobre mim: Eu não consigo assistir a um filme sem estar comendo pipoca ...
 
 <a href="https://https://github.com/yannsecundo">
-  <img height="180em" width: "200em" src="https://github-readme-stats.vercel.app/api?username=yannsecundo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" width: "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannsecundo&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" width: "20%" src="https://github-readme-stats.vercel.app/api?username=yannsecundo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" width: "20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannsecundo&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
