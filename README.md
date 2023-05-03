@@ -1,7 +1,7 @@
 ### Olá eu sou o Yann Secundo
 
-- 🔭 Futuro desenvolvedor FullStack ...
-- 🌱 Atualmente aprendendo React utilizando Redux e ContextAPI
+- 🔭 Desenvolvedor FullStack ...
+- 🌱 Atualmente aprendendo TypeScript
 - ⚡ Fato divertido sobre mim: Eu não consigo assistir a um filme sem estar comendo pipoca ...
 
 <a href="https://https://github.com/yannsecundo">
